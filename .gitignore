@@ -1,0 +1,8 @@
+# macOS Files
+.DS_Store
+
+# VSCode
+.vscode/
+
+# IPython
+.ipynb_checkpoints/
